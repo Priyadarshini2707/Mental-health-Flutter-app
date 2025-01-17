@@ -1,7 +1,10 @@
 # Mental-health-Flutter-app
 Mental health screening app that identifies mental status and suggests recommendations(Yoga, music, exercises)to improve well bei
 
-![image](https://github.com/user-attachments/assets/6cf7c71d-5fc3-4b0a-b6a5-f2c1a36cd16c) ![image](https://github.com/user-attachments/assets/3d636a24-8852-4702-bdb0-e76c64e10abd)
+![Screenshot_20250117_201032](https://github.com/user-attachments/assets/2994cbfc-39a5-4d67-874c-f30d255c32eb)   ![Screenshot_20250117_200337](https://github.com/user-attachments/assets/84a8ee11-8c26-46cd-84ba-5dfee1fc4d68)  ![Screenshot_20250117_200358](https://github.com/user-attachments/assets/39deb678-38a0-4a1c-953e-9e00a2bf9a58)
+
+
+
 
 
 
